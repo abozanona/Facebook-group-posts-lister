@@ -1,4 +1,4 @@
-#Facebook group posts lister
+# Facebook group posts lister
 
 A small script I made as a university project in *31/12/2015*
 
